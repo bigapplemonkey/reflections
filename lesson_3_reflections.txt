@@ -12,4 +12,8 @@ fork - copy someone's repository to your github. clone - copy repository to your
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-allows to work locally
+Allows to work locally
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I wouldn't... Everyhting would be more difficult
